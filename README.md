@@ -31,3 +31,4 @@ The general objective of this study is to identify novel molecular biomarkers as
 2. [Shamin Osata MSc, PhD students](https://github.com/osatashamim) - Co-Lead
 3. [Oluwaseun Celestina](https://github.com/#) - Writer lead
 4. [Muhammad Uzair Khan PhD student](https://github.com/#) - Tech lead
+5. [Maboletso Letsoalo](https://github.com/#) 
