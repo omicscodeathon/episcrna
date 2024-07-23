@@ -1,5 +1,5 @@
 Steps: [Convert the steps into a workflow diagram (include tools for each step) and update README.md]
-. Pull down raw features, barcodes, and count matrix
+. Pull down raw features, barcodes, and count matrix from GEO
 . Data preprocessing - Surat v5
 . Normalization and features selection - Surat v5
 . Dimensionality Reduction and Clustering - Surat v5
