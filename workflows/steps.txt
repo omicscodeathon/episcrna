@@ -1,11 +1,11 @@
-Steps: [Convert the steps into workflow diagram (include tools for each step) and update README.md]
-. Pull down raw features, barcodes and counts matrix
-. QC - 
-. Normalization
-. Scalling 
-. PCA
-. Marker Identification
-. DEGs Analysis
-. Genes Set Enrichment Analysis
-. Pathway analysis
+Steps: [Convert the steps into a workflow diagram (include tools for each step) and update README.md]
+. Pull down raw features, barcodes, and count matrix
+. Data preprocessing - Surat v5
+. Normalization and features selection - Surat v5
+. Dimensionality Reduction and Clustering - Surat v5
+.   Scaling   
+.   PCA
+.   Marker Identification
+. Differential Expression Analysis - DESeq2
+. Pathway and Functional Enrichment Analysis - ClusterProfiler
 . Interpretation
