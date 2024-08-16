@@ -17,8 +17,9 @@ The general objective of this study is to identify novel molecular biomarkers as
 
 ## Workflow
 <p align="center">
-<img src="https://github.com/user-attachments/assets/84d2b3eb-0112-49f2-aeae-142f722f49f3" width="800" height="500">
+<img src="https://github.com/user-attachments/assets/aa6cb052-77fa-4bc5-8882-0a93c0ae359c" width="800" height="500">
 </p>
+
 
 ## Results
 
